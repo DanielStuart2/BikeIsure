@@ -17,6 +17,11 @@ O sistema está em fase final de desenvolvimento, com funcionalidades como recon
 
 ---
 
+## 🎥 Vídeo Explicativo
+Para uma visão detalhada do projeto, assista ao [vídeo explicativo](https://www.youtube.com/watch?v=UXw2VwCRTx4).
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 - **TensorFlow**: Para aprendizado de máquina e reconhecimento de imagens.
 - **React**: Para a interface do usuário.
@@ -59,19 +64,7 @@ O sistema está em fase final de desenvolvimento, com funcionalidades como recon
 
 ---
 
-## 🚀 Como Contribuir
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Commit suas alterações (`git commit -m 'Adicionando nova feature'`).
-4. Push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
-
----
-
 ## 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-## ✉️ Contato
-Para mais informações, entre em contato com nossa equipe: [equipe@bikeisure.com](mailto:equipe@bikeisure.com).
